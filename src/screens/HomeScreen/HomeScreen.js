@@ -37,7 +37,7 @@ const HomeScreen = () => {
                 alignSelf: "center",
                 margin: 10,
               }}
-            ></View>
+            />
           );
         }}
       />
